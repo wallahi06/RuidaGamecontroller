@@ -1,1 +1,2 @@
 # RuidaGamecontroller
+This script is for running your Ruida laser controller such as the RDC6445 with a game controller like the PS4 controller. This uses the UDP protocol and reverse engineering of the ruida software to work and small adjustments to the code is necessarry such as changing the Ruida IP Address. Make sure to use port 50207 and 40207. I refer to the documentation of the Ruida protocol for further development: https://edutechwiki.unige.ch/en/Ruida.
